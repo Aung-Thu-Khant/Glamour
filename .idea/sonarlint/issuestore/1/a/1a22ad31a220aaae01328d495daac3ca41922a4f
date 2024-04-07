@@ -1,0 +1,32 @@
+
+‹
+java:S1319L"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(à¨÷ùÿÿÿÿ
+}
+java:S1319P"gThe type of "service" should be an interface such as "List" rather than the implementation "ArrayList".( ÛŸÚ
+f	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ç³
+f	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾çí¯
+k	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¬Œˆÿÿÿÿÿ
+f	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼­šÒ
+m
+java:S1104"RMake saloon a static final constant or non-public and provide accessors if needed.(¼÷ìÂıÿÿÿÿ
+f
+java:S1104"PMake user a static final constant or non-public and provide accessors if needed.(‹³¤²
+k	java:S116"QRename this field "Amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Â³úÿÿÿÿ
+u	java:S116"[Rename this field "Appointment_Time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Â³úÿÿÿÿ
+o	java:S116"URename this field "Pay_Status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Â³úÿÿÿÿ
+o	java:S116"URename this field "Pay_Method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Â³úÿÿÿÿ
+n	java:S116"TRename this field "Saloon_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Â³úÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®‘ÊÌ
+h
+java:S1659"MDeclare "Appointment_Time" and all following declarations on a separate line.(˜Â³úÿÿÿÿ
+<
+java:S1659"!Declare "key" on a separate line.( å€˜şÿÿÿÿ
+c	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜŸ®´
+c	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ç³
+h	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÇàÅüÿÿÿÿ
+c	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾çí¯
+h	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼×ı†üÿÿÿÿ
+h	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¬Œˆÿÿÿÿÿ
+c	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÅñî
+c	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼­šÒ

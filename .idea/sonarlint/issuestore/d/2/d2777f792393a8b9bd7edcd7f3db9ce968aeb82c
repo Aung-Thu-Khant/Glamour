@@ -1,0 +1,11 @@
+
+z
+java:S1319,"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(à¦¯Š
+…
+java:S1319"jThe type of "saloonList" should be an interface such as "List" rather than the implementation "ArrayList".(…ÑÄüÿÿÿÿ
+4
+java:S2119D"Save and re-use this "Random".(¡Å”¦
+Q	java:S125Z"<This block of commented-out lines of code should be removed.(—ÌÑÑ
+V	java:S125i"<This block of commented-out lines of code should be removed.(Š¦ôŠûÿÿÿÿ
+^
+java:S1659‡"BDeclare "sarea" and all following declarations on a separate line.(Ö““±øÿÿÿÿ

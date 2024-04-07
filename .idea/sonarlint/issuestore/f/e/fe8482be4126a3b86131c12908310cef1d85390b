@@ -1,0 +1,58 @@
+
+f
+java:S1192“"JDefine a constant instead of duplicating this literal "R_Request" 4 times.(áŠ¼•ıÿÿÿÿ
+r
+java:S1192ÿ"[Define a constant instead of duplicating this literal "Payment cancelled by user." 3 times.(¸²ı
+j
+java:S1192×"SDefine a constant instead of duplicating this literal "onActivityResult: " 3 times.(¯Ã±µ
+_
+java:S1192‰"HDefine a constant instead of duplicating this literal "Pending" 4 times.(îËéã
+g
+java:S1301€"KReplace this "switch" statement by "if" statements to increase readability.(öÛ«°şÿÿÿÿ
+g
+java:S1301Ò"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+g	java:S116:"RRename this field "User_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”óê¡
+m	java:S116D"SRename this field "btn_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß»¸úÿÿÿÿ
+m	java:S116D"SRename this field "btn_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß»¸úÿÿÿÿ
+s	java:S116I"^Rename this field "ServicerecyclerView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñëç“
+p	java:S116S"VRename this field "UPI_PAYMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÇéüıÿÿÿÿ
+<
+java:S1170S"!Make this final field static too.(ÂÇéüıÿÿÿÿ
+A
+java:S1659D"&Declare "btn_time" on a separate line.(ß»¸úÿÿÿÿ
+X
+java:S1659H"BDeclare "email" and all following declarations on a separate line.(úŒ¬ÿ
+L
+java:S1874L"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+Q
+java:S1874n"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ
+M
+java:S1874p"2Remove this use of "setMessage"; it is deprecated.(ü¾ïøÿÿÿÿ
+M
+java:S1117y"8Rename "name" which hides the field declared at line 72.(Ã£µC
+W
+java:S1117Â";Rename "bookNow" which hides the field declared at line 69.(ş¶ ßùÿÿÿÿ
+=	java:S131€""Add a default case to this switch.(öÛ«°şÿÿÿÿ
+=	java:S131Ò""Add a default case to this switch.(×ö³–úÿÿÿÿ
+n
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ßï£»ıÿÿÿÿ
+A
+java:S1197ó"*Move the array designators [] to the type.(¿‘ÕÊ
+F
+java:S1197õ"*Move the array designators [] to the type.(ñ––üÿÿÿÿ
+
+java:S1157÷"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(À©îÈúÿÿÿÿ
+z
+java:S1157ú"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ˆ»˜
+z
+java:S1157ú"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ˆ»˜
+I
+java:S1874Î"3Remove this use of "NetworkInfo"; it is deprecated.(¡ÿñ2
+R
+java:S1874Î"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(¡ÿñ2
+J
+java:S1874Ï"3Remove this use of "isConnected"; it is deprecated.(ò¶·Æ
+V
+java:S1874Ğ"?Remove this use of "isConnectedOrConnecting"; it is deprecated.(£ÕÂÉ
+J
+java:S1874Ñ"3Remove this use of "isAvailable"; it is deprecated.(°„«é

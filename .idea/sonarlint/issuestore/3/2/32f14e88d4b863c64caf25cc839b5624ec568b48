@@ -1,0 +1,9 @@
+
+‹
+java:S1319"pThe type of "messageArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(ù¹’Èÿÿÿÿÿ
+f
+java:S1301?"KReplace this "switch" statement by "if" statements to increase readability.(ªıÑüÿÿÿÿ
+d	java:S116"ORename this field "SELF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÀÚ³
+V	java:S125\"<This block of commented-out lines of code should be removed.(õ³ìğùÿÿÿÿ
+M
+java:S1135["2Complete the task associated to this TODO comment.(ßöÈıÿÿÿÿ

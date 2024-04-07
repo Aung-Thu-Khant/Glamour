@@ -1,0 +1,17 @@
+
+
+java:S1319!"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(Œ‚›§ùÿÿÿÿ
+V	java:S125P"<This block of commented-out lines of code should be removed.(ÏÑÛâûÿÿÿÿ
+X
+java:S1117Z"=Rename "mDatabase" which hides the field declared at line 30.(áø²ôúÿÿÿÿ
+X
+java:S1117h"=Rename "mDatabase" which hides the field declared at line 30.(ð¹âþùÿÿÿÿ
+Q	java:S125l"<This block of commented-out lines of code should be removed.(ªß­ª
+Q	java:S125{"<This block of commented-out lines of code should be removed.(’‰ÍÎ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(çŸÈÑùÿÿÿÿ
+b
+java:S1659œ"FDeclare "txtamount" and all following declarations on a separate line.(‘¡žÕùÿÿÿÿ
+D
+java:S1659ž"(Declare "btnDecline" on a separate line.(ùÏÑ‡øÿÿÿÿ
+H
+java:S1068"-Remove this unused "mDatabase" private field.(Ù–šûÿÿÿÿ

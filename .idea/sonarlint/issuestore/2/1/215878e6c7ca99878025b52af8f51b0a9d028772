@@ -1,0 +1,66 @@
+
+
+java:S1186½"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡¿õÖûÿÿÿÿ
+˜
+java:S1186á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óñ±ß
+
+java:S1186æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’Ìùøÿÿÿÿ
+
+java:S1186ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õ–Ùåÿÿÿÿÿ
+
+java:S1186ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©¬Óãùÿÿÿÿ
+˜
+java:S1186õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ï ê
+
+java:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íºó‡ùÿÿÿÿ
+˜
+java:S1186ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®öÉ
+˜
+java:S1186„"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ëÜ™¾
+˜
+java:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õó™Ô
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ù¼ùš
+
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ø¨à‰üÿÿÿÿ
+v
+java:S14504"`Remove the "screenOrientation" field and declare it as a local variable in the relevant methods.(ûÀÀ„
+D
+java:S1874,".Remove this use of "Camera"; it is deprecated.(Œ¸„›
+H
+java:S1874,"2Remove this use of "CameraInfo"; it is deprecated.(Œ¸„›
+Q
+java:S1874,";Remove this use of "CAMERA_FACING_FRONT"; it is deprecated.(Œ¸„›
+—
+java:S1186~"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††
+˜
+java:S1186…"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††
+W	java:S125‹"<This block of commented-out lines of code should be removed.(–÷«šÿÿÿÿÿ
+J
+java:S1874©".Remove this use of "Camera"; it is deprecated.(°‰…§şÿÿÿÿ
+N
+java:S1874©"2Remove this use of "CameraInfo"; it is deprecated.(°‰…§şÿÿÿÿ
+W
+java:S1874©";Remove this use of "CAMERA_FACING_FRONT"; it is deprecated.(°‰…§şÿÿÿÿ
+J
+java:S1874©".Remove this use of "Camera"; it is deprecated.(°‰…§şÿÿÿÿ
+N
+java:S1874©"2Remove this use of "CameraInfo"; it is deprecated.(°‰…§şÿÿÿÿ
+V
+java:S1874©":Remove this use of "CAMERA_FACING_BACK"; it is deprecated.(°‰…§şÿÿÿÿ
+J
+java:S1874©".Remove this use of "Camera"; it is deprecated.(°‰…§şÿÿÿÿ
+N
+java:S1874©"2Remove this use of "CameraInfo"; it is deprecated.(°‰…§şÿÿÿÿ
+W
+java:S1874©";Remove this use of "CAMERA_FACING_FRONT"; it is deprecated.(°‰…§şÿÿÿÿ
+R	java:S125²"<This block of commented-out lines of code should be removed.(öãÑì
+R	java:S125û"<This block of commented-out lines of code should be removed.(®ÉÎ­
+Q	java:S125€"<This block of commented-out lines of code should be removed.(›†¥*
+R	java:S125‹"<This block of commented-out lines of code should be removed.(®ÉÎ­
+U
+java:S1874“"9Remove this use of "getDefaultDisplay"; it is deprecated.(Üä»ãúÿÿÿÿ
+P
+java:S1874•"9Remove this use of "getDefaultDisplay"; it is deprecated.(×¥ÁÒ
+I
+java:S1874•"2Remove this use of "getMetrics"; it is deprecated.(×¥ÁÒ

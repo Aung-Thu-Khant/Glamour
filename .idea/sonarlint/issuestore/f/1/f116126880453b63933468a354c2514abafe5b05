@@ -1,0 +1,37 @@
+
+t
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î»ˆãÿÿÿÿÿ
+u
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğãíªùÿÿÿÿ
+g	java:S116""RRename this field "User_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö§˜
+?
+java:S1659"")Declare "highesttype" on a separate line.(ö§˜
+n
+java:S1450Z"XRemove the "mDatabase" field and declare it as a local variable in the relevant methods.(àıˆ
+V	java:S1255"<This block of commented-out lines of code should be removed.(Ğ‚ñøıÿÿÿÿ
+V	java:S1259"<This block of commented-out lines of code should be removed.(ƒ€è¾ùÿÿÿÿ
+K
+java:S2696I"6Make the enclosing method "static" or remove this set.(ï«z
+c	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¢ÛÒ
+h
+java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(ö¢ÛÒ
+U
+java:S1854^":Remove this useless assignment to local variable "isUser".(·íğ üÿÿÿÿ
+F
+java:S1481^"+Remove this unused "isUser" local variable.(·íğ üÿÿÿÿ
+R
+java:S1117j"<Rename "loginKey" which hides the field declared at line 40.(¤ƒÜÖ
+U
+java:S1155Œ">Use isEmpty() to check whether the collection is empty or not.(ò¯¤µ
+P
+java:S3252"9Use static access with "android.view.View" for "VISIBLE".(îú•¾
+R
+java:S3252";Use static access with "android.view.View" for "INVISIBLE".(±ğéÜ
+W
+java:S3252“";Use static access with "android.view.View" for "INVISIBLE".(³ò“ıÿÿÿÿ
+P
+java:S3252”"9Use static access with "android.view.View" for "VISIBLE".(´‚Š‚
+U
+java:S1854Î"9Remove this useless assignment to local variable "value".(’ªå—ÿÿÿÿÿ
+F
+java:S1481Î"*Remove this unused "value" local variable.(’ªå—ÿÿÿÿÿ

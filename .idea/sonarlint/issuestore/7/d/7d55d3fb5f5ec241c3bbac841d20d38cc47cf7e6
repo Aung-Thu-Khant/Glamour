@@ -1,0 +1,14 @@
+
+b
+java:S1192:"GDefine a constant instead of duplicating this literal "Remove" 3 times.(¦óƒâøÿÿÿÿ
+
+java:S1319 "dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(ĞŞáùÿÿÿÿ
+k	java:S114'"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É­úşÿÿÿÿ
+C	java:S108C")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+V	java:S125G"<This block of commented-out lines of code should be removed.(ü„–ûşÿÿÿÿ
+Q	java:S125P"<This block of commented-out lines of code should be removed.(‰é¢á
+Q	java:S125Z"<This block of commented-out lines of code should be removed.(³½ƒù
+d
+java:S1871‚"MThis branch's code block is the same as the block for the branch on line 127.(»±à‚
+F
+java:S1659“"*Declare "llEditDelete" on a separate line.(º˜ïœşÿÿÿÿ

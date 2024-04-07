@@ -1,0 +1,69 @@
+
+i
+java:S1192‹"MDefine a constant instead of duplicating this literal "Workinghours" 3 times.(¢‘±·üÿÿÿÿ
+„
+java:S1319/"nThe type of "copySaloonList" should be an interface such as "List" rather than the implementation "ArrayList".(Å±Ş
+p
+java:S1104/"ZMake copySaloonList a static final constant or non-public and provide accessors if needed.(Å±Ş
+J
+java:S1444/"4Make this "public static copySaloonList" field final(Å±Ş
+g	java:S1160"RRename this field "User_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”óê¡
+q
+java:S1450>"[Remove the "firebaseAuth" field and declare it as a local variable in the relevant methods.(“ø
+œ
+java:S1186r"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ
+c
+java:S1871k"MThis branch's code block is the same as the block for the branch on line 102.(å¥‡
+V	java:S125]"<This block of commented-out lines of code should be removed.(Ÿ›Úøıÿÿÿÿ
+m
+java:S3776x"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(‚Õ¥„üÿÿÿÿ
+T
+java:S1854ƒ"=Remove this useless assignment to local variable "txtKamrej".(éëÉˆ
+E
+java:S1481ƒ".Remove this unused "txtKamrej" local variable.(éëÉˆ
+
+java:S1186å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ÷‘Şÿÿÿÿÿ
+W	java:S125Ş"<This block of commented-out lines of code should be removed.(ƒš¸ùûÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+w
+java:S3923ô"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Ö¢ÛÀùÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(À·ÌÚøÿÿÿÿ
+D	java:S108ô")Either remove or fill this block of code.(Ö¢ÛÀùÿÿÿÿ
+?	java:S108ö")Either remove or fill this block of code.(å¥‡
+n
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÀÃ¯ÿúÿÿÿÿ
+˜
+java:S1186Ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Ş‰
+W	java:S125†"<This block of commented-out lines of code should be removed.(ıÓûÿÿÿÿ
+R	java:S125œ"<This block of commented-out lines of code should be removed.(ÚäĞ€
+
+java:S1186É"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ÷‘Şÿÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(È•”Öüÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(•èÚøÿÿÿÿ
+R	java:S125ï"<This block of commented-out lines of code should be removed.(âí“
+d	java:S100ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¢ÛÒ
+S
+java:S1854…"7Remove this useless assignment to local variable "uid".(ê™ğ˜şÿÿÿÿ
+H
+java:S1481„"1Remove this unused "servicesList" local variable.(»ÿ½ú
+D
+java:S1481…"(Remove this unused "uid" local variable.(ê™ğ˜şÿÿÿÿ
+R	java:S125†"<This block of commented-out lines of code should be removed.(âÁïÆ
+R	java:S125“"<This block of commented-out lines of code should be removed.(á’ßŞ
+R	java:S125¢"<This block of commented-out lines of code should be removed.(¾ùä
+S
+java:S1854¶"7Remove this useless assignment to local variable "uid".(ê™ğ˜şÿÿÿÿ
+H
+java:S1481µ"1Remove this unused "servicesList" local variable.(»ÿ½ú
+D
+java:S1481¶"(Remove this unused "uid" local variable.(ê™ğ˜şÿÿÿÿ
+R	java:S125·"<This block of commented-out lines of code should be removed.(âÁïÆ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(¾ùä
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(Ç‘¿ıÿÿÿÿ
+R	java:S125×"<This block of commented-out lines of code should be removed.(Êùû‘
+F
+java:S1068>"0Remove this unused "firebaseAuth" private field.(“ø
+G
+java:S1144ş"0Remove this unused private "ShowAppMent" method.(ö¢ÛÒ
+V
+java:S1144¯":Remove this unused private "rjjundsideShowAppMent" method.(Ûë ÿÿÿÿÿ
