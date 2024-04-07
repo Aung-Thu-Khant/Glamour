@@ -1,0 +1,15 @@
+
+q	java:S116'"WRename this field "login_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì³ûüúÿÿÿÿ
+L
+java:S1874*"6Remove this use of "ProgressDialog"; it is deprecated.(ðÝýº
+Q
+java:S18742"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ðúÿÿÿÿ
+Q
+java:S1874Z"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ðúÿÿÿÿ
+M
+java:S1874\"2Remove this use of "setMessage"; it is deprecated.(ü¾ïŽøÿÿÿÿ
+Q
+java:S1854g";Remove this useless assignment to local variable "struser".(¨þû²
+B
+java:S1481g",Remove this unused "struser" local variable.(¨þû²
+Q	java:S125h"<This block of commented-out lines of code should be removed.(çÓ”á

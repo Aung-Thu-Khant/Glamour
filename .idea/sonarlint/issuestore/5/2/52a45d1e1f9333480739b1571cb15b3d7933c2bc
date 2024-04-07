@@ -1,0 +1,24 @@
+
+K
+java:S3740"/Provide the parametrized type for this generic.(Åï•ıÿÿÿÿ
+o
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü¼ºÌ
+o
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(çË§æ
+X
+java:S2259«"AA "NullPointerException" could be thrown; "max" is nullable here.(Ï¶¼¦
+Q	java:S125/"<This block of commented-out lines of code should be removed.(…Õ˜ 
+m
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(äğôËÿÿÿÿÿ
+
+java:S1186†"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ÷‘Şÿÿÿÿÿ
+V	java:S125G"<This block of commented-out lines of code should be removed.(³×ìıÿÿÿÿ
+b
+java:S1871O"LThis branch's code block is the same as the block for the branch on line 76.(ôèª©
+Q	java:S125P"<This block of commented-out lines of code should be removed.(Àóÿõ
+Q	java:S125S"<This block of commented-out lines of code should be removed.(³¥Ü•
+Q	java:S125h"<This block of commented-out lines of code should be removed.(ÖÓêà
+Q	java:S125n"<This block of commented-out lines of code should be removed.(š„¾
+Q	java:S125~"<This block of commented-out lines of code should be removed.(ùÂòï
+W
+java:S1117";Rename "adapter" which hides the field declared at line 31.(Åï•ıÿÿÿÿ

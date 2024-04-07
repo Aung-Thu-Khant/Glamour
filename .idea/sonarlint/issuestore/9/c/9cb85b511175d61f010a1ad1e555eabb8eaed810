@@ -1,0 +1,12 @@
+
+c
+java:S1192Q"HDefine a constant instead of duplicating this literal "Saloons" 3 times.(ûô¬íûÿÿÿÿ
+g	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸òóá
+l	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡…ã¦ùÿÿÿÿ
+L
+java:S1874("6Remove this use of "ProgressDialog"; it is deprecated.(ðÝýº
+Q
+java:S1874I"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ðúÿÿÿÿ
+M
+java:S1874K"2Remove this use of "setMessage"; it is deprecated.(ü¾ïŽøÿÿÿÿ
+V	java:S125V"<This block of commented-out lines of code should be removed.(±ƒ‘éýÿÿÿÿ

@@ -1,0 +1,50 @@
+
+J
+java:S3740;"/Provide the parametrized type for this generic.(ì†ÏÝûÿÿÿÿ
+l	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿§½¡ûÿÿÿÿ
+g
+java:S1301­"KReplace this "switch" statement by "if" statements to increase readability.(¤Š¤±ÿÿÿÿÿ
+3
+java:S1643ž"Use a StringBuilder instead.(²ˆ»¢
+g	java:S1016"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾¼‹ñøÿÿÿÿ
+i
+java:S3008C"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÝ½æøÿÿÿÿ
+q
+java:S1450="VRemove the "btnSend" field and declare it as a local variable in the relevant methods.(‚×ÜÀýÿÿÿÿ
+„
+java:S1450A"iRemove the "permissionToRecordAccepted" field and declare it as a local variable in the relevant methods.(û‹è¦ýÿÿÿÿ
+K
+java:S1874†"/Remove this use of "execute"; it is deprecated.(Ï·ïÞùÿÿÿÿ
+8
+java:S1116£"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+=	java:S131­""Add a default case to this switch.(¤Š¤±ÿÿÿÿÿ
+=	java:S131»""Add a default case to this switch.(×ö³–úÿÿÿÿ
+Q	java:S125Ò"<This block of commented-out lines of code should be removed.(Á„™
+i
+java:S3776Þ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¶ðÍ„
+\
+java:S1117â"@Rename "inputMessage" which hides the field declared at line 60.(Ð¬µ—þÿÿÿÿ
+\
+java:S1117ç"@Rename "inputMessage" which hides the field declared at line 60.(Ð¬µ—þÿÿÿÿ
+E
+java:S1874•"/Remove this use of "execute"; it is deprecated.(¿ÛËQ
+E
+java:S1874§"/Remove this use of "execute"; it is deprecated.(¿ÛËQ
+F
+java:S1874¯"/Remove this use of "execute"; it is deprecated.(ÎíÆü
+>
+java:S1125Í"'Remove the unnecessary boolean literal.(÷‹ïî
+O
+java:S1874ò"3Remove this use of "NetworkInfo"; it is deprecated.(Õ¥—ãùÿÿÿÿ
+X
+java:S1874ò"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(Õ¥—ãùÿÿÿÿ
+V
+java:S1874ô"?Remove this use of "isConnectedOrConnecting"; it is deprecated.(¸ª©ƒ
+H
+java:S1874¨"1Remove this use of "AsyncTask"; it is deprecated.(©È›ƒ
+P
+java:S3398”"4Move this method into "MicrophoneRecognizeDelegate".(ïÙê‰üÿÿÿÿ
+K
+java:S3398‹"4Move this method into "MicrophoneRecognizeDelegate".(ŽÞ…¢
+Y
+java:S1068A">Remove this unused "permissionToRecordAccepted" private field.(û‹è¦ýÿÿÿÿ

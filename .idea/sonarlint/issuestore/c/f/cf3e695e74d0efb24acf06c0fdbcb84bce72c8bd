@@ -1,0 +1,45 @@
+
+n	java:S116-"TRename this field "show_hide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä®Ø¥ùÿÿÿÿ
+>
+java:S1659+"(Declare "etPassword" on a separate line.(å€ƒİ
+Y
+java:S1659/"DDeclare "edState" and all following declarations on a separate line.(Í‘‰;
+>
+java:S16591"#Declare "email" on a separate line.(«ïÃÖıÿÿÿÿ
+j
+java:S14504"TRemove the "mAuth" field and declare it as a local variable in the relevant methods.(ªĞ”’
+w
+java:S14505"\Remove the "mAuthListener" field and declare it as a local variable in the relevant methods.(£õ–õúÿÿÿÿ
+m
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(¨Œşÿÿÿÿ
+R
+java:S1874="7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(ÛŒ şÿÿÿÿ
+M
+java:S1874>"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(­‰ı›
+S
+java:S1117W"8Rename "user" which hides the field declared at line 50.(è÷ÿƒıÿÿÿÿ
+S
+java:S1854‘"7Remove this useless assignment to local variable "key".(¼¯„úÿÿÿÿ
+T
+java:S1854"=Remove this useless assignment to local variable "firstname".(öä…À
+ƒ
+java:S3252ƒ"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(ÙùÖÑüÿÿÿÿ
+U
+java:S1117†"9Rename "email" which hides the field declared at line 49.(»×İàüÿÿÿÿ
+W
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(€¶ûÿÿÿÿ
+E
+java:S1481".Remove this unused "firstname" local variable.(öä…À
+D
+java:S1481‘"(Remove this unused "key" local variable.(¼¯„úÿÿÿÿ
+O
+java:S1117¤"8Rename "user" which hides the field declared at line 50.(—ÓÛ
+?	java:S108­")Either remove or fill this block of code.(»²ÓŞ
+Q	java:S125Ä"<This block of commented-out lines of code should be removed.(µöÉ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ
+W	java:S125ò"<This block of commented-out lines of code should be removed.(ú»Ü›ûÿÿÿÿ
+?
+java:S10684")Remove this unused "mAuth" private field.(ªĞ”’
+L
+java:S10685"1Remove this unused "mAuthListener" private field.(£õ–õúÿÿÿÿ

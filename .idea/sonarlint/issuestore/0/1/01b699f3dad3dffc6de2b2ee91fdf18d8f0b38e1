@@ -1,0 +1,60 @@
+
+u
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(×Ù¾£şÿÿÿÿ
+d
+java:S1192²"HDefine a constant instead of duplicating this literal "Saloons" 7 times.(à¥«Âùÿÿÿÿ
+g
+java:S1301è"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+^
+java:S2259ë"BA "NullPointerException" could be thrown; "data" is nullable here.(ÅË¼µøÿÿÿÿ
+
+java:S1186ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ
+k
+java:S1450="VRemove the "spinner" field and declare it as a local variable in the relevant methods.(Ï‰¯
+R
+java:S1874K"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(ÛŒ şÿÿÿÿ
+M
+java:S1874L"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(­‰ı›
+R
+java:S1874R"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(ÛŒ şÿÿÿÿ
+M
+java:S1874S"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(­‰ı›
+k
+java:S2159e"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÿÕ†=
+k
+java:S2159e"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÿÕ†=
+k
+java:S2159e"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÿÕ†=
+k
+java:S2159e"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÿÕ†=
+k
+java:S2159e"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÿÕ†=
+k
+java:S2159e"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÿÕ†=
+k
+java:S2159e"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÿÕ†=
+œ
+java:S1186u"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²óÀÚÿÿÿÿÿ
+O
+java:S1854¥"8Remove this useless assignment to local variable "pref".(ãÇ÷
+U
+java:S1854¤"9Remove this useless assignment to local variable "myRef".(õı”ıÿÿÿÿ
+R
+java:S1874‹"6Remove this use of "ProgressDialog"; it is deprecated.(°ÕÈøÿÿÿÿ
+R
+java:S1874‹"6Remove this use of "ProgressDialog"; it is deprecated.(°ÕÈøÿÿÿÿ
+N
+java:S1874"2Remove this use of "setMessage"; it is deprecated.(Ú­‰æøÿÿÿÿ
+F
+java:S1481¤"*Remove this unused "myRef" local variable.(õı”ıÿÿÿÿ
+@
+java:S1481¥")Remove this unused "pref" local variable.(ãÇ÷
+W	java:S125®"<This block of commented-out lines of code should be removed.(–ñ†õüÿÿÿÿ
+W	java:S125´"<This block of commented-out lines of code should be removed.(ªçÈüúÿÿÿÿ
+R	java:S125»"<This block of commented-out lines of code should be removed.(Â¾ûí
+W	java:S125¾"<This block of commented-out lines of code should be removed.(ªçÈüúÿÿÿÿ
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(ºÏºşÿÿÿÿ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(’¼¶üÿÿÿÿ
+=	java:S131è""Add a default case to this switch.(×ö³–úÿÿÿÿ
+A
+java:S10683"+Remove this unused "toolbar" private field.(ş®º—

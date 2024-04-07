@@ -1,0 +1,55 @@
+
+f
+java:S1301s"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ
+]
+java:S2259?"BA "NullPointerException" could be thrown; "user" is nullable here.(Â×Óüÿÿÿÿ
+t	java:S115+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œ½ûªýÿÿÿÿ
+o	java:S115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿë–Ì
+n	java:S116$"ZRename this field "forgot_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÐäW
+n	java:S116%"TRename this field "show_hide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä®Ø¥ùÿÿÿÿ
+>
+java:S1659#"(Declare "edPassword" on a separate line.(³ÿ§–
+B
+java:S1659$"-Declare "forgot_password" on a separate line.(ÞÐäW
+w
+java:S1450*"\Remove the "mAuthListener" field and declare it as a local variable in the relevant methods.(£õ–õúÿÿÿÿ
+Q	java:S125("<This block of commented-out lines of code should be removed.( Šîí
+R
+java:S1874E"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(ŽÛŒ þÿÿÿÿ
+M
+java:S1874F"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(­‰ý›
+H
+java:S1905n"2Remove this unnecessary cast to "OnClickListener".(˜ÉÙÑ
+<	java:S131s""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+E
+java:S1874u"/Remove this use of "execute"; it is deprecated.(½êá–
+L
+java:S1874z"1Remove this use of "AsyncTask"; it is deprecated.(Û¹äÎùÿÿÿÿ
+L
+java:S1874~"6Remove this use of "ProgressDialog"; it is deprecated.(ßñâ
+R
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(Žÿ¢ÿÿÿÿÿ
+a
+java:S1874ƒ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ËÐƒ
+O
+java:S1874„"8Remove this use of "setProgressStyle"; it is deprecated.(âªÒþ
+M
+java:S1874„"6Remove this use of "ProgressDialog"; it is deprecated.(âªÒþ
+L
+java:S1874„"5Remove this use of "STYLE_SPINNER"; it is deprecated.(âªÒþ
+N
+java:S1874…"2Remove this use of "setMessage"; it is deprecated.(ïÛ½áþÿÿÿÿ
+ƒ
+java:S3252"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(ÚÅ¾±ÿÿÿÿÿ
+U
+java:S1854¦"9Remove this useless assignment to local variable "value".(äÿñÅùÿÿÿÿ
+ƒ
+java:S3252ž"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(„ëñÜÿÿÿÿÿ
+ƒ
+java:S3252º"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(§È¥–ÿÿÿÿÿ
+f
+java:S1874Æ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(’á›ûøÿÿÿÿ
+m
+java:S1874Ì"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿ8„÷ú¼ë1
+L
+java:S1068*"1Remove this unused "mAuthListener" private field.(£õ–õúÿÿÿÿ

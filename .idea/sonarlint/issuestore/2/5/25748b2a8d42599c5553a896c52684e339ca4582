@@ -1,0 +1,11 @@
+
+;
+java:S1659"%Declare "btnBack" on a separate line.(çú³€
+l
+java:S1450"VRemove the "btnBack" field and declare it as a local variable in the relevant methods.(çú³€
+m
+java:S1450"WRemove the "btnReset" field and declare it as a local variable in the relevant methods.(çú³€
+R
+java:S1874#"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(ŽÛŒ þÿÿÿÿ
+M
+java:S1874$"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(­‰ý›
