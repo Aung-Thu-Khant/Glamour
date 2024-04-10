@@ -107,7 +107,65 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
             }
         });
 
-        btnLogin.setOnClickListener((View.OnClickListener) this);
+        btnLogin.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                String email = edEmail.getText().toString().trim();
+                String password = edPassword.getText().toString().trim();
+                if (email.equals("") || password.equals("")) {
+                    Snackbar snackbar = Snackbar
+                            .make(coordinatorLayoutlogin, "Please Fill All The Fields", Snackbar.LENGTH_LONG);
+                    snackbar.show();
+
+                } else if (email.equalsIgnoreCase(adminUser) && password.equalsIgnoreCase(adminUPassword)) {
+                    Intent intent = new Intent(LoginActivity.this, AdminDashBoardActivity.class);
+                    startActivity(intent);
+                    finish();
+                } else {
+
+                    mAuth.signInWithEmailAndPassword(email, password)
+                            .addOnCompleteListener(LoginActivity.this, new OnCompleteListener<AuthResult>() {
+                                @Override
+                                public void onComplete(@NonNull Task<AuthResult> task) {
+                                    if (task.isSuccessful()) {
+                                        Snackbar snackbar = Snackbar
+                                                .make(coordinatorLayoutlogin, "Login Successful", Snackbar.LENGTH_LONG);
+                                        snackbar.show();
+                                        String value = "";
+                                        if (task.getResult().getUser().getDisplayName().equals(Constant.SALOON)) {
+                                            AppUtils.setStringValue(LoginActivity.this, Constant.LoginKey, Constant.SALOON);
+                                            AppUtils.setStringValue(LoginActivity.this, Constant.USERID, task.getResult().getUser().getUid());
+                                            AppUtils.setValue(LoginActivity.this, Constant.ISSALON, true);
+                                            AppUtils.setValue(LoginActivity.this, Constant.ISUSER, false);
+                                            value = Constant.SALOON;
+                                            Intent intent = new Intent(LoginActivity.this, SaloonDashboard.class);
+                                            intent.putExtra(Constant.ARGS_SALOON, task.getResult().getUser().getUid());
+                                            startActivity(intent);
+                                            finish();
+
+                                        } else if (task.getResult().getUser().getDisplayName().equals(Constant.USER)) {
+                                            AppUtils.setStringValue(LoginActivity.this, Constant.LoginKey, Constant.USER);
+                                            AppUtils.setStringValue(LoginActivity.this, Constant.USERID, task.getResult().getUser().getUid());
+                                            AppUtils.setValue(LoginActivity.this, Constant.ISUSER, true);
+                                            AppUtils.setValue(LoginActivity.this, Constant.ISSALON, false);
+                                            value = Constant.USER;
+                                            Intent intent = new Intent(LoginActivity.this, Dashboard.class);
+                                            intent.setAction("login");
+                                            intent.putExtra(Constant.ARGS_SALOON, value);
+                                            startActivity(intent);
+                                            finish();
+                                        }
+                                    } else {
+                                        Snackbar snackbar = Snackbar
+                                                .make(coordinatorLayoutlogin, "Login Failed", Snackbar.LENGTH_LONG);
+                                        snackbar.show();
+                                    }
+                                }
+                            });
+
+                }
+            }
+        });
     }
 
     @Override

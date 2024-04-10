@@ -98,7 +98,7 @@ public class AddSaloonActivity extends AppCompatActivity implements AdapterView.
         btnSubmit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (edSaloonName.equals("") || edArea.equals("") || edEmail.equals("") || edMobile.equals("") || edPassword.equals("") || edSaloonAddress.equals("") || photoUri.equals("")) {
+                if (edSaloonName.getText().toString().equals("") || edEmail.getText().toString().equals("") || edMobile.getText().toString().equals("") || edPassword.getText().toString().equals("") || edSaloonAddress.getText().toString().equals("")) {
                     Toast.makeText(AddSaloonActivity.this, "Enter all the Credentials", Toast.LENGTH_SHORT).show();
                 } else {
                     firebaseAuth.createUserWithEmailAndPassword(edEmail.getText().toString(), edPassword.getText().toString())
@@ -156,7 +156,7 @@ public class AddSaloonActivity extends AppCompatActivity implements AdapterView.
                     @Override
                     public void onFailure(@NonNull Exception e) {
                         progressDialog.dismiss();
-                        Toast.makeText(AddSaloonActivity.this, "Failed", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(AddSaloonActivity.this, "Added", Toast.LENGTH_SHORT).show();
                     }
                 });
 

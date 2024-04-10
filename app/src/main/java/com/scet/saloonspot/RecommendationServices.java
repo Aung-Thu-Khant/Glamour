@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -111,16 +112,21 @@ public class RecommendationServices extends AppCompatActivity {
 //                    activelistview.setAdapter(adapter);
                 }
 
+                try{
 
-                Log.e("###", mostCommon(listItems)); //1
-                listItems2.add(mostCommon(listItems));
-                listItems.removeAll(Collections.singleton(mostCommon(listItems)));
-                Log.e("###", mostCommon(listItems)); //2
-                listItems2.add(mostCommon(listItems));
+                    Log.e("###", mostCommon(listItems)); //1
+                    listItems2.add(mostCommon(listItems));
+                    listItems.removeAll(Collections.singleton(mostCommon(listItems)));
+                    Log.e("###", mostCommon(listItems)); //2
+                    listItems2.add(mostCommon(listItems));
 
-                listItems.removeAll(Collections.singleton(mostCommon(listItems)));
-                Log.e("###", mostCommon(listItems)); //3
-                listItems2.add(mostCommon(listItems));
+                    listItems.removeAll(Collections.singleton(mostCommon(listItems)));
+                    Log.e("###", mostCommon(listItems)); //3
+                    listItems2.add(mostCommon(listItems));
+                }catch (Exception e){
+                    Toast.makeText(getApplicationContext(),e.getMessage().toString(),Toast.LENGTH_SHORT).show();
+                }
+
 
 
 //                for(String object : listItems2){
